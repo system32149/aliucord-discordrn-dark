@@ -2,7 +2,9 @@
     "manifest": {
         "author": "system32____",
         "name": "DiscordRN Dark",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/system32149\/aliucord-discordrn-dark\/refs\/heads\/master\/DiscordRN%20Dark.json",
+        "license": "CC0"
     },
     "background": {},
     "fonts": {

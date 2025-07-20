@@ -1,0 +1,30 @@
+{
+    "manifest": {
+        "author": "system32____",
+        "name": "DiscordRN Dark",
+        "version": "1.0.0"
+    },
+    "background": {},
+    "fonts": {
+        "ginto_bold": "https:\/\/github.com\/SeaCreeature\/-gg-sans-for-Aliucord\/raw\/refs\/heads\/main\/gg%20sans%20Bold.ttf",
+        "ginto_medium": "https:\/\/github.com\/SeaCreeature\/-gg-sans-for-Aliucord\/raw\/refs\/heads\/main\/gg%20sans%20Medium.ttf",
+        "ginto_regular": "https:\/\/github.com\/SeaCreeature\/-gg-sans-for-Aliucord\/raw\/refs\/heads\/main\/gg%20sans%20Regular.ttf",
+        "whitney_bold": "https:\/\/github.com\/SeaCreeature\/-gg-sans-for-Aliucord\/raw\/refs\/heads\/main\/gg%20sans%20Bold.ttf",
+        "whitney_medium": "https:\/\/github.com\/SeaCreeature\/-gg-sans-for-Aliucord\/raw\/refs\/heads\/main\/gg%20sans%20Medium.ttf",
+        "whitney_semibold": "https:\/\/github.com\/SeaCreeature\/-gg-sans-for-Aliucord\/raw\/refs\/heads\/main\/gg%20sans%20Regular.ttf",
+        "roboto_medium_numbers": "https:\/\/github.com\/SeaCreeature\/-gg-sans-for-Aliucord\/raw\/refs\/heads\/main\/gg%20sans%20Medium.ttf"
+    },
+    "simple_colors": {
+        "background": -14934750,
+        "input_background": -14211281,
+        "background_secondary": -14211281,
+        "statusbar": -14934750
+    },
+    "colors": {
+        "primary_dark_700": -15461608,
+        "primary_dark_800": -13816523,
+        "brand_new": -10983950
+    },
+    "drawable_tints": {},
+    "raws": {}
+}

@@ -2,7 +2,7 @@
     "manifest": {
         "author": "system32____",
         "name": "DiscordRN Dark",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "updater": "https:\/\/raw.githubusercontent.com\/system32149\/aliucord-discordrn-dark\/refs\/heads\/master\/DiscordRN%20Dark.json",
         "license": "CC0"
     },
@@ -25,7 +25,11 @@
     "colors": {
         "primary_dark_700": -15461608,
         "primary_dark_800": -13816523,
-        "brand_new": -10983950
+        "brand_new": -10983950,
+        "white_800": -14934750,
+        "uikit_btn_bg_color_selector_red": -362628,
+        "primary_630": -14211281,
+        "primary_660": -13027007
     },
     "drawable_tints": {},
     "raws": {}
